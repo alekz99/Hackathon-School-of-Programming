@@ -4,8 +4,6 @@
 
 ### Команда THOTB 2024
 
-Major sports websites provide text-based broadcasts of matches that can be used to create news. In this paper, a system for summarizing broadcasts in Russian is proposed for generating generalizing news and news that are dedicated to some event in the match. The proposed system consists of three components: a news filter, a selector, and a rewriter. The implemented system showed the best results in comparison with the proposed baselines.
-
 ## Классификация клиентов
 
 | Тип клиента | Количество |
